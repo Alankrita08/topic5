@@ -1,0 +1,16 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Automated testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "author": "Alankrita",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.26.0",
+    "jest": "^27.5.1"
+  }
+}
